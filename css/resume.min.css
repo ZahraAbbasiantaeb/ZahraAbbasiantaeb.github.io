@@ -48,9 +48,9 @@ p.lead{font-size:1.15rem;font-weight:400}
 	line-height:3.5rem;margin-right:1rem}
 
 .social-icons a:last-child{margin-right:0}
-.social-icons a:hover{background-color:#EA3441  }
+.social-icons a:hover{background-color:#0D9DC0  }
 .dev-icons{font-size:3rem}
-.dev-icons .list-inline-item i:hover{color:#EA3441  }
+.dev-icons .list-inline-item i:hover{color:#0D9DC0  }
 
 #sideNav .navbar-nav .nav-item .nav-link{font-weight:800;letter-spacing:.01rem;  margin: -2px}
 
@@ -71,10 +71,10 @@ p.lead{font-size:1.15rem;font-weight:400}
 
 
 section.resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem;
-border-bottom: 2px solid #EA3441; }
+border-bottom: 2px solid #0D9DC0; }
 
 .resume-item-time {
-	border-left: 3px solid #EA3441;
+	border-left: 3px solid #0D9DC0;
 	padding-left: 2rem;
 }
 .resume-item-time:before {
@@ -84,7 +84,7 @@ border-bottom: 2px solid #EA3441; }
   margin-left: -45px;
   margin-top: 20px;
   background-color: white;
-  border: 8px solid #EA3441;
+  border: 8px solid #0D9DC0;
   border-radius: 50%;
   z-index: 1;
 }
@@ -106,8 +106,8 @@ section.resume-section .resume-item .resume-date{min-width:none}
 	section.pic{display: none;}}
 
 
-.bg-primary{background-color:#EA3441  !important}
-.text-primary{color:#EA3441  !important}
+.bg-primary{background-color:#0D9DC0  !important}
+.text-primary{color:#0D9DC0  !important}
 a{color:#868e96}
 a:active,a:focus,a:hover{color:#868e96; }
 
